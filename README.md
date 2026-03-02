@@ -1,4 +1,5 @@
-# A terminal chat for beginners in python language
+# A terminal chat for beginners in python language ![image]({(https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue))
+
 “terminal-chat” is a simple chat application built in Python that can be executed directly in the terminal. Its purpose is to help beginners create their first simple project and become familiar with the Python programming language.
 
 # Prerequisites
